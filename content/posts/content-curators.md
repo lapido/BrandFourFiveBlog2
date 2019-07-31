@@ -1,7 +1,7 @@
 ---
 title: "CONTENT CURATORS. YOU WANT TO BUY BENZ? THEN YOU NEED THESE TOOLS"
 date: "2019-07-21T20:54:45.847Z"
-draft: true
+draft: false
 ---
 These content tools are here to stay, it would definitely make your work easy and very professional, so you need to keep them handy...
 
