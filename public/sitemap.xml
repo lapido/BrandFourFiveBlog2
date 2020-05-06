@@ -1,1 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://blog.brandfourfive.com/</loc><priority>0</priority></url><url><loc>https://blog.brandfourfive.com/categories/</loc><priority>0</priority></url><url><loc>https://blog.brandfourfive.com/tags/</loc><priority>0</priority></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.brandfourfive.com/posts/be-the-no-1-on-your-customers-mind-in-5-ways/</loc>
+    <lastmod>2019-08-15T16:47:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.brandfourfive.com/</loc>
+    <lastmod>2019-08-15T16:47:32+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.brandfourfive.com/posts/</loc>
+    <lastmod>2019-08-15T16:47:32+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.brandfourfive.com/posts/content-curators/</loc>
+    <lastmod>2019-07-21T20:54:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.brandfourfive.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.brandfourfive.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
