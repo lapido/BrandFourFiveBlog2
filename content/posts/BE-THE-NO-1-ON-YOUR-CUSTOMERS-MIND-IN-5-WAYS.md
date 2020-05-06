@@ -3,6 +3,11 @@ title: "BE the NO 1 on YOUR CUSTOMERS MIND in 5 WAYS"
 date: 2019-08-15T16:47:32+01:00
 draft: false
 ---
+<!-- ![Image](/img/image_1_brandFourFive.jpeg) -->
+
+{{ with .Resources.ByType "image_1_brandFourFive" }}
+{{ end }}
+
 Want a smartphone? What is the first phone brand that comes in mind?.
 Movie? What comes to mind first?
 Taxi? What comes to mind?
