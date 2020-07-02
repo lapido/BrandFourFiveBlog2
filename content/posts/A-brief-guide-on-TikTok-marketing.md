@@ -5,6 +5,8 @@ draft: false
 ---
 ## A brief guide on TikTok marketing.
 
+![TikTok!](/img/tiktop.jpg")
+
 At a time when building a community is most important, TikTok has shown itself as a perfect place to increase your brand awareness. TikTok has over __*800 million monthly active users and an average view time of 52 minutes*__, which gives your brand enough show time.
 TikTok is the first video sharing network that appeal to GenZ users, which is best known for viral dance trends, challenges and lip-sync videos. This platform stands as a triple threat against Instagram and other social media platforms – combining video creation, entertainment driven social network and one touch syndication network. 
 You are about to discover all you can do with TikTok; from the best time to post, trendy contents, algorithm and a bonus tip – _you have to read to the end to know what it is_.
